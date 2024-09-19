@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **51250038_CF1_ESTRATEGIAS__COMPRENSION_LECTORA**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/51250038_CF1_ESTRATEGIAS__COMPRENSION_LECTORA/](https://ecoredsena-atlantico.github.io/51250038_CF1_ESTRATEGIAS__COMPRENSION_LECTORA/)
 
 #
 
