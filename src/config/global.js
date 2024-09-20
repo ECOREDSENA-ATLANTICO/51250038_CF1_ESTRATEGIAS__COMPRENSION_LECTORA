@@ -95,8 +95,7 @@ export default {
   complementario: [
     {
       tema: '3. Tipos de lectura',
-      referencia:
-        'Ecosistema recursos educativos (2021). SENA [Video]. YouTube. ',
+      referencia: 'Ecosistema recursos educativos (2021). SENA',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=cfme4rgalDI',
     },
@@ -220,9 +219,10 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
         },
       ],
     },
@@ -230,9 +230,30 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Fabio Andrés Tabla Rico',
+          cargo: 'Experto temático',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+        },
+        {
+          nombre: 'Jairo Antonio Castro Casas',
+          cargo: 'Líder línea de producción ',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+        },
+        {
+          nombre: 'Mónica Patricia Osorio Martines.',
+          cargo: 'Líder línea de producción',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+        },
+        {
+          nombre: 'Johana Melina Montoya Pirlachi',
+          cargo: 'Asesora pedagógica',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+        },
+        {
+          nombre: 'Fabian Cuartas Donado',
+          cargo: 'Evaluador instruccional',
+          centro:
+            'Regional Atlántico. Centro para el Desarrollo Agroecológico y Agroindustria.',
         },
       ],
     },
@@ -240,23 +261,26 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Eulises Orduz Amezquita',
+          cargo: 'Diseñador web',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Andrés Díaz Pinto',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Carmen Alicia Martinez Torres',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: 'Nelson Ivan Vera Briceño',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -265,24 +289,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },

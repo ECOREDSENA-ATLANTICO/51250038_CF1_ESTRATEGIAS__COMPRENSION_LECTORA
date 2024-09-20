@@ -40,6 +40,32 @@
     background-color: #CDE9E9 
     &::before
       background-color: #5BB7B7
+  &_3
+    background-color: #972544
+    border-radius: 20px
+    display: inline
+    padding: 10px
+    padding-left: 50px
+  &_4
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(252,230,206,1) 100%);
+  &_5
+    background-color: #FEF7EE
+  &_6
+    background-color: #FFF0F4
+  &_7
+    background-color: white
+  &_8
+    background-image: url(../assets/curso/temas/tema2/5.svg) !important
+    background-repeat: no-repeat
+  &_9
+    background-color: #FEF3E7
+  &_10
+    color: $color-acento-botones !important
+  &_11
+    li > i:first-of-type
+      color: $color-acento-botones
+  
 
 .bg_img
   position: relative
@@ -54,3 +80,113 @@
     width: calc(100% + 96px)
     height: 100%
     background-image: url(../assets/curso/temas/tema1/3.png) !important
+  &_1
+    position: relative
+    .row, p, figure, .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -50px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url(../assets/curso/temas/tema1/8.png) !important
+      background-repeat: no-repeat
+  &_2
+    position: relative
+    .row, p, figure, .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 50%
+      left: -48px
+      width: calc(100% + 96px)
+      height: 43%
+      background-image: url(../assets/curso/temas/tema1/12.png) !important
+      background-repeat: no-repeat
+  &_3
+    position: relative
+    .row, p, figure, .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0
+      left: -48px
+      width: calc(100% + 96px)
+      height: 70%
+      background-image: url(../assets/curso/temas/tema2/3.png) !important
+      background-repeat: no-repeat
+  &_4
+    position: relative
+    .row, p, figure, .tarjeta
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 30%
+      left: -48px
+      width: calc(100% + 96px)
+      height: 70%
+      background-image: url(../assets/curso/temas/tema2/8.svg) !important
+      background-repeat: no-repeat
+.pst
+  position: absolute
+  width: 80px
+  top: -13px
+  left: -25px
+
+.tabla-b__header
+  padding: 5px
+
+///////////// CUSTOM LINEA DE TIEMPO D
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #872141 !important
+      color: white
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #EBC0CC
+
+/// non selected
+.linea-tiempo-d__item.row
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #F3E8EB
+    .linea-tiempo-d__item__dots:after
+      border-left: 4px dotted #adb8c2 !important
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #F3E8EB
+
+//Clases reemplazadas// 
+.lista-ol--separador li
+  padding-bottom: 10px
+  margin-bottom: 10px
+
+//CUSTOM SLIDER B//
+.slyder-a__bullets__item--active
+  background-color: #BD2F56 !important
+  border-color: #BD2F56 !important
+.slyder-a__bullets__item
+  background-color: #E8B1B9
+  border: 1px solid #E8B1B9
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: $color-acento-botones
+
+//bloque de texto//
+.bloque-texto-f.color-secundario:before
+  background-color: white
+  -webkit-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.75)
+  -moz-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.75)
+  box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.75)
+
+.tabs-a__tab
+  background-color: #E8E8E8
