@@ -17,48 +17,159 @@ export default {
     cuestionario: {
       tema: 'Nombre del componente formativo',
       titulo: 'Cuestionario',
-      introduccion: '<b> Objetivo:</b> Texto de Word',
+      introduccion:
+        'Reflexionar sobre la lectura y su importancia, teniendo en cuenta los elementos que conforman el proceso lector.',
       barajarPreguntas: false,
       preguntas: [
         {
           id: 1,
-          texto: 'Texto pregunta 1 con <strong>Negrita</strong> <em>Itálica</.',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Opción 1', esCorrecta: true },
-            { id: 'b', texto: 'Opción 2', esCorrecta: false },
-            { id: 'c', texto: 'Opción 3', esCorrecta: false },
-            { id: 'd', texto: 'Opción 4', esCorrecta: false },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 2,
-          texto: 'Texto pregunta 2',
-          imagen: require('@/assets/componentes/pregunta_2.png'),
+          texto:
+            'El concepto de lectura se limita únicamente a la decodificación de palabras sin considerar el significado.',
+          imagen: require('@/assets/actividad/1.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 2,
+          texto:
+            'Los tipos de lectura son: Lectura crítica, lectura inferencial y lectura literal.',
+          imagen: require('@/assets/actividad/2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
-          texto: 'Texto pregunta 3',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
-          barajarRespuestas: false,
+          texto:
+            'Para leer eficazmente, solo se necesita una buena iluminación y no es importante el ambiente ni el nivel de concentración.',
+          imagen: require('@/assets/actividad/3.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Opción 1', esCorrecta: true },
-            { id: 'b', texto: 'Opción 2', esCorrecta: false },
-            { id: 'c', texto: 'Opción 3', esCorrecta: false },
-            { id: 'd', texto: 'Todas las anteriores', esCorrecta: false },
+            { id: 'a', texto: 'Falso', esCorrecta: true },
+            { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 4,
+          texto:
+            'La prelectura consiste en leer el texto de manera superficial antes de empezar a analizarlo en profundidad',
+          imagen: require('@/assets/actividad/4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 5,
+          texto:
+            'Los tipos de texto incluyen solo los textos narrativos y descriptivos ',
+          imagen: require('@/assets/actividad/1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: true },
+            { id: 'b', texto: 'Verdadero', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 6,
+          texto:
+            'El lenguaje formal es característico de los géneros académicos y científicos',
+          imagen: require('@/assets/actividad/2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 7,
+          texto:
+            'Los géneros discursivos son clasificaciones de textos según sus características y propósitos comunicativos.',
+          imagen: require('@/assets/actividad/3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 8,
+          texto:
+            'La lectura crítica permite al lector evaluar y analizar la información presentada en un texto.',
+          imagen: require('@/assets/actividad/4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 9,
+          texto:
+            'Leer implica interpretar y comprender el significado del texto.',
+          imagen: require('@/assets/actividad/1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: false },
+            { id: 'b', texto: 'Verdadero', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 10,
+          texto:
+            'La lectura en voz alta siempre mejora la comprensión del texto.',
+          imagen: require('@/assets/actividad/2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Falso', esCorrecta: true },
+            { id: 'b', texto: 'Verdadero', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento de la normativa que orienta el desarrollo educativo en el país.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
