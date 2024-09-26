@@ -18,7 +18,7 @@ export default {
       tema: 'Nombre del componente formativo',
       titulo: 'Cuestionario',
       introduccion:
-        'Reflexionar sobre la lectura y su importancia, teniendo en cuenta los elementos que conforman el proceso lector.',
+        'Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: false,
       preguntas: [
         {
