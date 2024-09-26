@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Concepto de lectura.
+      h1 Concepto de lectura
     
     .row.mb-5.justify-content-center
       .col-md-8.col-lg-5.mb-3(data-aos="fade-right")
@@ -23,26 +23,26 @@
     .bg_img
       .row.mb-5.justify-content-center.p-lg-4
         .col-md-5.text-white.mb-3
-          p.mb-0 <em>Lectores de papiros.</em>
-          p.mb-0 <em>Sermones en los templos.</em>
-          p.mb-0 <em>Poesía en público.</em> 
-          p.mb-0 <em>Discursos políticos.</em>
-          p.mb-0 <em>Libros.</em>
-          p.mb-0 <em>Revistas.</em>
+          p.mb-0 Lectores de papiros.
+          p.mb-0 Sermones en los templos.
+          p.mb-0 Poesía en público. 
+          p.mb-0 Discursos políticos.
+          p.mb-0 Libros.
+          p.mb-0 Revistas.
           p.mb-0 <em>Cómics.</em>
-          p.mb-0 <em>Subtítulos de películas.</em>
-          p.mb-0 <em>Grafitis.</em>
-          p.mb-0 <em>Carteles publicitarios.</em>
-          p.mb-0 <em>Anuncios publicitarios.</em>
-          p.mb-0 <em>Anuncios luminosos</em>.
-          p.mb-0 <em>Cartas que se envían por correo ordinario.</em> 
-          p.mb-0 <em>Instrucciones para usar una medicina o un aparato electrónico.</em> 
-          p.mb-0 <em>Lectores de información en Internet.</em>
+          p.mb-0 Subtítulos de películas.
+          p.mb-0 Grafitis.
+          p.mb-0 Carteles publicitarios.
+          p.mb-0 Anuncios publicitarios.
+          p.mb-0 Anuncios luminosos.
+          p.mb-0 Cartas que se envían por correo ordinario. 
+          p.mb-0 Instrucciones para usar una medicina o un aparato electrónico. 
+          p.mb-0 Lectores de información en Internet.
           p.mb-0 <em>Blogs.</em>
-          p.mb-0 <em>Cartas enviadas electrónicamente.</em>
-          p.mb-0 <em>Faxes.</em>
-          p.mb-0 <em>Microfilmes.</em>
-          p.mb-0 <em>Mensaje en el móvil.</em> 
+          p.mb-0 Cartas enviadas electrónicamente.
+          p.mb-0 Faxes.
+          p.mb-0 Microfilmes.
+          p.mb-0 Mensaje en el móvil. 
         .col-md-5.align-content-center(data-aos="fade-up")
           figure
             img(src='@/assets/curso/temas/tema1/2.png', alt='Imagen decorativa') 
@@ -50,14 +50,14 @@
     
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Figura 1. 
-      span El autor, el texto, proceso de lectura y el lector.
+      span <em>El autor, el texto, proceso de lectura y el lector</em>
 
     figure.mb-5(data-aos="fade-down")
       img.mb-3(src='@/assets/curso/temas/tema1/4.svg', alt='Se presenta que la lectura va más allá del simple descifrado de palabras; implica interpretar significados implícitos, comprender contextos y captar los propósitos del autor. Esta habilidad enriquece el pensamiento y la cultura, y promueve una comprensión profunda del texto.')
       figcaption Nota: Sena (2024)
     
     div.mb-5(data-aos="fade-right")
-      h3.bgr_3.text-white.position-relative Importancia de la de lectura
+      h3.bgr_3.text-white.position-relative Importancia de la lectura
         img.pst(src='@/assets/curso/temas/tema1/5.svg', alt='')
     
 
@@ -66,7 +66,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/6.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Es común oír a las personas hablar de la importancia de la lectura. Docentes, padres, amigos, compañeros y colegas indagan por los textos que se leen o se dejan de leer. Las instituciones educativas evalúan los procesos de lectura, tratando de determinar el fracaso o el éxito académico. Pero ¿se ha detenido usted a pensar las razones por las cuales debe leer? Indudablemente, el proceso lector trae consigo una serie de efectos positivos que recaen sobre el desarrollo del pensamiento, del lenguaje y de la cultura (Tabla, 2012). 
+        p.mb-0 Es común oír a las personas hablar de la importancia de la lectura. Docentes, padres, amigos, compañeros y colegas indagan por los textos que se leen o se dejan de leer. Las instituciones educativas evalúan los procesos de lectura, tratando de determinar el fracaso o el éxito académico. Pero, ¿se ha detenido usted a pensar las razones por las cuales debe leer? Indudablemente, el proceso lector trae consigo una serie de efectos positivos que recaen sobre el desarrollo del pensamiento, del lenguaje y de la cultura (Tabla, 2012). 
 
     div.mb-5.mt-5(data-aos="fade-right")
       h3.bgr_3.text-white.position-relative Tipos de lectura
@@ -88,29 +88,29 @@
             img(src='@/assets/curso/temas/tema1/9.png', alt='Imagen decorativa')
         .col-lg-7.align-content-center.order-1.order-lg-2.mb-3
           LineaTiempoD.color-secundario
-            p.text-small(numero="1" titulo="Lectura Literal") La lectura literal se realiza cuando se abordan las líneas de un texto: “es una primera aproximación al nivel más objetivo del sistema de la lengua”. Este tipo de lectura consiste en descodificar las unidades textuales (gráficas, léxicas y semánticas).
-            p.text-small(numero="2" titulo="Lectura inferencial") En este tipo de lectura, los conocimientos previos y la experiencia del lector juegan un papel determinante: “En un grado más complejo, leer entre líneas se refiere a la capacidad de recuperar los implícitos convocados en el texto, que contribuyen de manera decisiva a elaborar su coherencia global y a construir el significado relevante del escrito.
+            p.text-small(numero="1" titulo="Lectura literal") La lectura literal se realiza cuando se abordan las líneas de un texto: “es una primera aproximación al nivel más objetivo del sistema de la lengua”. Este tipo de lectura consiste en descodificar las unidades textuales (gráficas, léxicas y semánticas).
+            p.text-small(numero="2" titulo="Lectura inferencial") En este tipo de lectura, los conocimientos previos y la experiencia del lector juegan un papel determinante: “en un grado más complejo, leer entre líneas se refiere a la capacidad de recuperar los implícitos convocados en el texto, que contribuyen de manera decisiva a elaborar su coherencia global y a construir el significado relevante del escrito.
             p.text-small(numero="3" titulo="Lectura critica") Lectura crítica: es un tipo complejo de lectura el que exige niveles más altos de comprensión; requiere los planos previos de comprensión (literal, inferencias, intenciones, etc.) del texto; y exige una suerte de respuesta personal externa del lector frente al texto (frente a su contenido, intención y punto de vista).
 
     .row.mb-5
       .col-lg-8.mb-3(data-aos="fade-up")
         .titulo-sexto.color-acento-contenido.mb-5
           h5 Figura 2. 
-          span Tipos de lectura.  
+          span <em>Tipos de lectura</em>  
         figure
           img(src='@/assets/curso/temas/tema1/10.png', alt='Imagen decorativa')
       .col-lg-4(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido.mb-5
-          h5 Figura 3. 
-          span El informante.
+          h5 Figura 3.
+          span <em>El informante</em>
         figure
           img(src='@/assets/curso/temas/tema1/11.png', alt='Imagen decorativa')     
 
-    p.mb-5 A continuación, se prsenta el significado de cada una de las unidades, que se utilizan en los textos:
+    p.mb-5 A continuación, se presenta el significado de cada una de las unidades, que se utilizan en los textos:
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Tabla 1. 
-      span El significado de las unidades. 
+      span <em>El significado de las unidades</em> 
     
     .tabla-b.color-acento-contenido.mb-5
       .tabla-b__header
@@ -174,8 +174,8 @@
             .tarjeta.color-primario.text-whit.p-3(x="42.5%" y="62%" numero="3")
               .h5.mb-2 Disponibilidad del tiempo
               p La lectura, como cualquier otra actividad, se realiza durante un tiempo definido. Lograr un hábito de lectura implica programar espacios de tiempo dedicados, exclusivamente, para leer. Por ejemplo:
-              p.mb-0 - 7:00 Lectura de noticias
-              p - 10: 00 Lectura de redes sociales
+              p.mb-0 - 7:00 Lectura de noticias.
+              p - 10: 00 Lectura de redes sociales.
               p Los tiempos de lectura no necesariamente deben ser prolongados. 
  
             
@@ -184,7 +184,7 @@
               p El lector decide los lugares en donde lee. Se puede leer en la biblioteca, en el parque, en un café, en la sala de la casa, en la cama, en la cocina y en el transporte público. Son incontables los espacios propicios para realizar una buena lectura. Si bien no existen reglas que condicionen la elección de un lugar, es importante que los espacios garanticen comodidad y tranquilidad.
 
     div.mb-5.mt-5(data-aos="fade-right")
-      h3.bgr_3.text-white.position-relative Los diez derechos del lector, según Daniel Pennac (1992):
+      h3.bgr_12.text-white.position-relative Los diez derechos del lector, según Daniel Pennac (1992):
         img.pst(src='@/assets/curso/temas/tema1/5.svg', alt='')
     
     .row.mb-5.bgr_4.p-4 
@@ -245,7 +245,7 @@
         SlyderA(tipo="b")
           .row.p-4
             .col-lg-7.mb-4.mb-md-0.align-content-center
-              h3 El titulo y año
+              h3 El título y año
               p Lea el título del texto y pregúntese:
               ul.lista-ul--color.fa-ul
                 li 
@@ -308,7 +308,7 @@
           .row.p-4
             .col-lg-7.mb-4.mb-md-0.align-content-center
               h3 Introducción
-              p Todos los textos tienen una introducción, aunque no siempre esté explícita. En la introducción se presenta, de manera general, el tema y la propuesta del autor, la cual puede persuadir o disuadir; esto depende de los intereses del lector. Así que pregúntese: ¿dentro de los millones de textos que existen, éste es el que busco? y ¿La propuesta narrativa, argumentativa o descriptiva me gusta?              
+              p Todos los textos tienen una introducción, aunque no siempre esté explícita. En la introducción se presenta, de manera general, el tema y la propuesta del autor, la cual puede persuadir o disuadir; esto depende de los intereses del lector. Así que pregúntese: ¿dentro de los millones de textos que existen, éste es el que busco? y ¿la propuesta narrativa, argumentativa o descriptiva me gusta?              
             .col-lg-5.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/18.png', alt='Texto que describa la imagen')

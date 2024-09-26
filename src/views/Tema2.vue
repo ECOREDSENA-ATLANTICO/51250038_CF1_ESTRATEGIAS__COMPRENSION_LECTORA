@@ -16,29 +16,29 @@
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Tabla 2. 
-      span Los textos tienen nombre. 
+      span <em>Los textos tienen nombre</em> 
     
     .tabla-a.color-acento-contenido.mb-5 
       table
-        caption Nota: Sena
+        caption Nota: Sena.
         thead
           tr
             th.bgr_6 Ámbito
             th.bgr_6 Intención comunicativa
             th.bgr_6 Estructura textual
-            th.bgr_6 Estructura textual
+            th.bgr_6 Lenguaje
             th.bgr_6 Genero discursivo
         tbody.text-center
           tr
             th Académico
             td Argumentar.
-            td Propuesta de tesis, desarrolló de argumentos y conclusión.
-            td Léxico, técnico claro, pero no necesariamente sencillo.
+            td Propuesta de tesis, desarrollo de argumentos y conclusión.
+            td Léxico técnico, claro, pero no necesariamente sencillo.
             td Ensayo.
           tr
             th Académico
             td Presentar los resultados de investigación.
-            td Introducción, justificación metodología, resultados etc.
+            td Introducción, justificación, metodología, resultados, etc.
             td Léxico académico, claro y descriptivo.
             td Informe/artículo de investigación.
           tr
@@ -49,7 +49,7 @@
             td Noticia.
     
     div.mb-5.mt-5(data-aos="fade-right")
-      h3.bgr_3.text-white.position-relative ¿Por qué es necesario conocer el género discursivo?
+      h3.bgr_12.text-white.position-relative ¿Por qué es necesario conocer el género discursivo?
         img.pst(src='@/assets/curso/temas/tema2/2.svg', alt='')
     
     .bg_img_3
@@ -73,12 +73,8 @@
         h4 Ritornelo
         p.mb-0 “Esta rosa fue testigo”
         p.mb-0 De éste, que, si amor no fue,
-        p.mb-0 De éste, que, si amor no fue,
-        p.mb-0 Esta rosa fue testigo
         p.mb-0 Ninguno otro amor sería.
-        p.mb-0 El día, ya no lo se
         p.mb-0 Esta rosa fue testigo
-        p.mb-0 Esta rosa fue testigo.
         p.mb-0 ¡De cuando te diste mía!
         p.mb-0 El día, ya no lo se
         p.mb-0 (Sí lo sé, mas no lo digo)
@@ -101,18 +97,23 @@
         p.mb-0 ¡La vez primera contigo!
         p.mb-0 Esta rosa fue testigo.
         p.mb-0 “Esta rosa fue testigo”
+        p.mb-0 De éste, que, si amor no fue,
         p.mb-0 Ninguno otro amor sería.
+        p.mb-0 Esta rosa fue testigo
         p.mb-0 ¡De cuando te diste mía!
+        p.mb-0 El día, ya no lo se
         p.mb-0 - Sí lo sé, mas no lo digo-
+        p.mb-0 Esta rosa fue testigo.
+
       .tarjeta.bgr_9.p-5(titulo="Crónica ámbito periodístico")
         h4 El Juramento
         p Y entonces resolví asistir al estadio. Como era un encuentro más sonado que todos los anteriores, tuve que irme temprano. Confieso que nunca en mi vida he llegado tan temprano a ninguna parte y que de ninguna tampoco he salido tan agotado. Alfonso y Germán no tomaron nunca la iniciativa de convertirme a esa religión dominical del fútbol, con todo y que ellos debieron sospechar que alguna vez me iba a convertir en ese energúmeno, limpio de cualquier barniz que pueda ser considerado como el último rastro de civilización, que fui ayer en las graderías del municipal. El primer instante de lucidez en que caí en la cuenta de que estaba convertido en un hincha intempestivo fue cuando advertí que durante toda mi vida había tenido algo de que muchas veces me había ufanado y que ayer me estorbaba de una manera inaceptable: el sentido del ridículo. Ahora me explico por qué esos caballeros habitualmente tan almidonados se sienten como un calamar en su tinta cuando se colocan, con todas las de la ley, su gorrita a varios colores.
         p Es que, con ese solo gesto, quedan automáticamente convertidos en otras personas, como si la gorrita no fuera sino el uniforme de una nueva personalidad. No sé si mi matrícula de hincha esté todavía demasiado fresca para permitirme ciertas observaciones personales acerca del partido de ayer, pero como ya hemos quedado de acuerdo en que una de las condiciones esenciales del hinchaje es la pérdida absoluta y aceptada del sentido del ridículo, voy a decir lo que vi --o lo que creí ver ayer tarde—para darme el lujo de empezar bien temprano a meter esas patas deportivas que bien guardadas me tenía. En primer término, me pareció que el Junior dominó a Millonarios desde el primer momento. Si la línea blanca que divide la cancha en dos mitades significa algo, mi afirmación anterior es cierta, puesto que muy pocas veces pudo estar la bola, en el primer tiempo, dentro de la mitad correspondiente a la portería del Junior. (¿Qué tal va mi debut como comentarista de fútbol?) …
       .tarjeta.bgr_9.p-5(titulo="Ley (ámbito legislativo)")
-        h4 Código de infancia y adolescencia
-        h3 Principio y definiciones 
+        h3 Código de infancia y adolescencia
+        h4 Principio y definiciones 
         p Artículo 1º. Finalidad. Este Código tiene por finalidad garantizar a los niños, a las niñas y a los adolescentes su pleno y armonioso desarrollo para que crezcan en el seno de la familia y de la comunidad, en un ambiente de felicidad, amor y comprensión. Prevalecerá el reconocimiento a la igualdad y la dignidad humana, sin discriminación alguna. Artículo 2º. Objeto. El presente Código tiene por objeto establecer normas sustantivas y procesales para la protección integral de los niños, las niñas y los adolescentes, garantizar el ejercicio de sus derechos y libertades consagrados en los instrumentos internacionales de derechos humanos, en la Constitución Política y en las leyes, así como su restablecimiento. Dicha garantía y protección será obligación de la familia, la sociedad y el Estado. 
-      .tarjeta.bgr_9.p-5(titulo="Cómic (periodístico artístico)")
+      .tarjeta.bgr_9.p-5(titulo="<em>Cómic</em> (periodístico artístico)")
         h4 Manoseo electoral
         figure
           img(src='@/assets/curso/temas/tema2/6.png', alt='Imagen decorativa')
@@ -127,7 +128,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Tabla 3. 
-      span Tipos de estructuras. 
+      span <em>Tipos de estructuras</em> 
     
     .tabla-a.color-acento-contenido.mb-5 
       table
@@ -135,7 +136,7 @@
         thead
           tr
             th.bgr_6 Tipo de texto
-            th.bgr_6 Finalidad del Autor
+            th.bgr_6 Finalidad del autor
             th.bgr_6 Ejemplo
         tbody.text-center
           tr
@@ -160,7 +161,7 @@
             td Para preparar un ajiaco, siga los siguientes pasos:1. Reúna los ingredientes.
 
     div.mb-5.mt-5(data-aos="fade-right")
-      h3.bgr_3.text-white.position-relative El proceso de descodificación.
+      h3.bgr_3.text-white.position-relative El proceso de descodificación
         img.pst(src='@/assets/curso/temas/tema2/2.svg', alt='')
 
     p.mb-5 Leer las líneas, es decir, descodificar el código, implica recuperar el significado de las unidades y de sus relaciones. Esto requiere del conocimiento de la lengua (o del sistema de signos), pues de no ser así, se presentaría la siguiente situación: 
@@ -192,11 +193,11 @@
             li 
               i.lista-ul__vineta
               span.bgr_10 León: 
-              span Felino, mamífero, cuadrúpedo, salvaje, de gran tamaño, etc.
+              span felino, mamífero, cuadrúpedo, salvaje, de gran tamaño, etc.
             li 
               i.lista-ul__vineta
               span.bgr_10 Gato: 
-              span Felino, mamífero, cuadrúpedo, domestico, pequeño, etc. 
+              span felino, mamífero, cuadrúpedo, doméstico, pequeño, etc. 
         //- .tarjeta debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
@@ -211,16 +212,16 @@
           ul.bgr_11.lista-ul--color.fa-ul
             li 
               i.lista-ul__vineta
-              | Los cocker son perros muy afectuosos con el ser humano.
+              | Los <em>cocker</em> son perros muy afectuosos con el ser humano.
             li 
               i.lista-ul__vineta
-              | El ser humano es muy afectivo con los perros cocker.
+              | El ser humano es muy afectivo con los perros <em>cocker</em>.
             li 
               i.lista-ul__vineta
-              | ¿Los cocker son perros muy afectuosos con el ser humano?
+              | ¿Los <em>cocker</em> son perros muy afectuosos con el ser humano?
             li 
               i.lista-ul__vineta
-              | ¡Los cocker son perros muy afectuosos con el ser humano!
+              | ¡Los <em>cocker</em> son perros muy afectuosos con el ser humano!
 
     
     .row.justify-content-center

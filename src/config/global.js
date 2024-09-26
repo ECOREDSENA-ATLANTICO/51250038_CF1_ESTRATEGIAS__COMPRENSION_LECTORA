@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'La lectura y su importancia.',
+    componenteFormativo: 'La lectura y su importancia',
     descripcionCurso:
       'En este componente formativo, se explora el concepto de lectura, sus tipos y beneficios. Se presentan estrategias para enriquecer la experiencia de lectura y se reflexiona sobre el proceso personal e individual de lectura. Desde el enfoque inicial hasta la comprensión del contenido. El objetivo es entender el texto a nivel literal y mejorar la efectividad en la lectura.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -36,14 +36,14 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Concepto de lectura.',
+        titulo: 'Concepto de lectura',
         desarrolloContenidos: true,
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Géneros discursivos.',
+        titulo: 'Géneros discursivos',
         desarrolloContenidos: true,
       },
     ],
@@ -108,7 +108,7 @@ export default {
     {
       termino: 'Comprensión lectora',
       significado:
-        'proceso mental en el cual se descodifica, clasifica, relaciona, infiere y Analizar información de un texto con el fin elaborar una interpretación propia del lector.',
+        'proceso mental en el cual se descodifica, clasifica, relaciona, infiere y analiza información de un texto con el fin elaborar una interpretación propia del lector.',
     },
     {
       termino: 'Fonología',
@@ -158,7 +158,7 @@ export default {
     },
     {
       referencia:
-        'Cassany. D. (2003) aproximaciones a la lectura critica: teoría, ejemplos y reflexiones. Tarbiya, revista en investigación e innovación Aguirre, M., Camacho, T., Flórez, T., Gaibao, D., Murcia, G., & Pasive, Y. (2012). Estrategias pedagógicas en el ámbito educativo.',
+        'Cassany. D. (2003) Aproximaciones a la lectura critica: teoría, ejemplos y reflexiones. Tarbiya, revista en investigación e innovación Aguirre, M., Camacho, T., Flórez, T., Gaibao, D., Murcia, G., & Pasive, Y. (2012). Estrategias pedagógicas en el ámbito educativo.',
     },
     {
       referencia:
@@ -186,9 +186,6 @@ export default {
       referencia: 'Mesnager, J. (1997). Lecture et compréhension.',
       link:
         'http://ameds.free.fr/conferences/rtf-pdf/mesnager%20lecture%20et%20compr%E9hension.pdf',
-    },
-    {
-      referencia: 'Mesnager, J. (1997). Lecture et compréhension.',
     },
     {
       referencia:
@@ -220,9 +217,9 @@ export default {
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga',
         },
       ],
     },
@@ -232,28 +229,28 @@ export default {
         {
           nombre: 'Fabio Andrés Tabla Rico',
           cargo: 'Experto temático',
-          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca',
         },
         {
           nombre: 'Jairo Antonio Castro Casas',
           cargo: 'Líder línea de producción ',
-          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca',
         },
         {
           nombre: 'Mónica Patricia Osorio Martines.',
           cargo: 'Líder línea de producción',
-          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca',
         },
         {
           nombre: 'Johana Melina Montoya Pirlachi',
           cargo: 'Asesora pedagógica',
-          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca.',
+          centro: 'Regional Cundinamarca. Centro Agroempresarial Cundinamarca',
         },
         {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Regional Atlántico. Centro para el Desarrollo Agroecológico y Agroindustria.',
+            'Regional Atlántico. Centro para el Desarrollo Agroecológico y Agroindustria',
         },
       ],
     },
@@ -262,21 +259,21 @@ export default {
       autores: [
         {
           nombre: 'Eulises Orduz Amezquita',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <em>web</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carlos Andrés Díaz Pinto',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <em>Fullstack</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Nelson Ivan Vera Briceño',
@@ -292,25 +289,25 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
