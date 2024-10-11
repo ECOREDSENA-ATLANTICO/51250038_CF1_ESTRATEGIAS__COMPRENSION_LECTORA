@@ -14,7 +14,7 @@
       .col-lg-7(data-aos="fade-left")
         p Identificar palabras importantes mientras se lee, es una estrategia que permite ayudar a encontrar la idea principal del texto.  
         .cajon.bgr_2.p-4.mb-4
-          p.mb-0 La lectura es una práctica sociocultural asociada a procesos cognitivos y comunicativos. Cuando se lee se descodifican, comprenden e interpretan signos: se interactúa con el texto. Acercarse a un texto implica: reconocer un código semiótico (el alfabeto y sus combinaciones, por ejemplo); identificar la intención comunicativa y las ideas de un autor; y construir una posición personal frente a lo propuesto en el texto.
+          p.mb-0 La lectura es una práctica sociocultural asociada a procesos cognitivos y comunicativos. Cuando se lee se descodifican, comprenden e interpretan signos: se interactúa con el texto. Acercarse a un texto implica: reconocer un código semiótico (el alfabeto y sus combinaciones), por ejemplo, identificar la intención comunicativa y las ideas de un autor; y construir una posición personal frente a lo propuesto en el texto.
         p De acuerdo con Cassany (2006), leer es un proceso de comprensión que involucra tres dimensiones: una lingüística, una psicolingüística y una sociocultural. En la primera, el lector recupera los significados de las unidades textuales (palabras, colores, formas, etc.). En la dimensión psicolingüística, el lector construye el sentido del texto: “va más allá de las palabras”. Esta actividad consiste en aportar conocimientos, hacer inferencias, formular, verificar y reformular hipótesis. 
 
     p Finalmente, el lector contextualiza el texto a fin de entender las condiciones socio-históricas que le dieron origen (lugar, autor, época, situación social, económica, cultural y política). A partir de esto, se crean acuerdos que se entienden como puntos intermedios o desacuerdos con el texto, y, por ende, con su autor.
@@ -66,7 +66,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/6.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Es común oír a las personas hablar de la importancia de la lectura. Docentes, padres, amigos, compañeros y colegas indagan por los textos que se leen o se dejan de leer. Las instituciones educativas evalúan los procesos de lectura, tratando de determinar el fracaso o el éxito académico. Pero, ¿se ha detenido usted a pensar las razones por las cuales debe leer? Indudablemente, el proceso lector trae consigo una serie de efectos positivos que recaen sobre el desarrollo del pensamiento, del lenguaje y de la cultura (Tabla, 2012). 
+        p.mb-0 Es común oír a las personas hablar de la importancia de la lectura. Docentes, padres, amigos, compañeros y colegas indagan por los textos que se leen o se dejan de leer. Las instituciones educativas evalúan los procesos de lectura, tratando de determinar el fracaso o el éxito académico. Pero, ¿se ha detenido usted a pensar las razones por las cuales debe leer? Indudablemente, el proceso lector trae consigo una serie de efectos positivos que recaen sobre el desarrollo del pensamiento, del lenguaje y de la cultura. 
 
     div.mb-5.mt-5(data-aos="fade-right")
       h3.bgr_3.text-white.position-relative Tipos de lectura
@@ -90,7 +90,7 @@
           LineaTiempoD.color-secundario
             p.text-small(numero="1" titulo="Lectura literal") La lectura literal se realiza cuando se abordan las líneas de un texto: “es una primera aproximación al nivel más objetivo del sistema de la lengua”. Este tipo de lectura consiste en descodificar las unidades textuales (gráficas, léxicas y semánticas).
             p.text-small(numero="2" titulo="Lectura inferencial") En este tipo de lectura, los conocimientos previos y la experiencia del lector juegan un papel determinante: “en un grado más complejo, leer entre líneas se refiere a la capacidad de recuperar los implícitos convocados en el texto, que contribuyen de manera decisiva a elaborar su coherencia global y a construir el significado relevante del escrito.
-            p.text-small(numero="3" titulo="Lectura critica") Lectura crítica: es un tipo complejo de lectura el que exige niveles más altos de comprensión; requiere los planos previos de comprensión (literal, inferencias, intenciones, etc.) del texto; y exige una suerte de respuesta personal externa del lector frente al texto (frente a su contenido, intención y punto de vista).
+            p.text-small(numero="3" titulo="Lectura critica") Es un tipo complejo de lectura el que exige niveles más altos de comprensión; requiere los planos previos de comprensión (literal, inferencias, intenciones, etc.) del texto; y exige una suerte de respuesta personal externa del lector frente al texto (frente a su contenido, intención y punto de vista).
 
     .row.mb-5
       .col-lg-8.mb-3(data-aos="fade-up")
@@ -98,13 +98,13 @@
           h5 Figura 2. 
           span <em>Tipos de lectura</em>  
         figure
-          img(src='@/assets/curso/temas/tema1/10.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/10.png', alt='Los tipos de lectura se clasifican: - Lectura literal. - Lectura inferencial. - Lectura crítica.')
       .col-lg-4(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido.mb-5
           h5 Figura 3.
           span <em>El informante</em>
         figure
-          img(src='@/assets/curso/temas/tema1/11.png', alt='Imagen decorativa')     
+          img(src='@/assets/curso/temas/tema1/11.png', alt='La figura muestra un periódico o revista, el informante.')     
 
     p.mb-5 A continuación, se presenta el significado de cada una de las unidades, que se utilizan en los textos:
 
@@ -216,7 +216,7 @@
           li.d-flex
             .lista-ol--cuadro__vineta
               span 6
-            | El derecho al bovarismo (enfermedad de trasmisión textual). Se refiere al derecho a imaginar y sentir.
+            | El derecho al bovarismo (enfermedad de transmisión textual). Se refiere al derecho a imaginar y sentir.
           li.d-flex 
             .lista-ol--cuadro__vineta
               span 7
@@ -301,14 +301,14 @@
           .row.p-4
             .col-lg-7.mb-4.mb-md-0.align-content-center
               h3 Subtítulos o tabla de contenido
-              p ¿Cuáles son los subtemas o focos del texto? De acuerdo con los objetivos de lectura y el tipo de texto ¿requiere leer el libro completo? o ¿puede direccionar la lectura a capítulos específicos.              
+              p ¿Cuáles son los subtemas o focos del texto? De acuerdo con los objetivos de lectura y el tipo de texto ¿requiere leer el libro completo? o ¿puede direccionar la lectura a capítulos específicos?              
             .col-lg-5.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/17.png', alt='Texto que describa la imagen')
           .row.p-4
             .col-lg-7.mb-4.mb-md-0.align-content-center
               h3 Introducción
-              p Todos los textos tienen una introducción, aunque no siempre esté explícita. En la introducción se presenta, de manera general, el tema y la propuesta del autor, la cual puede persuadir o disuadir; esto depende de los intereses del lector. Así que pregúntese: ¿dentro de los millones de textos que existen, éste es el que busco? y ¿la propuesta narrativa, argumentativa o descriptiva me gusta?              
+              p Todos los textos tienen una introducción, aunque no siempre esté explícita. En la introducción se presenta, de manera general, el tema y la propuesta del autor, la cual puede persuadir o disuadir; esto depende de los intereses del lector. Así que pregúntese: ¿dentro de los millones de textos que existen, este es el que busco? y ¿la propuesta narrativa, argumentativa o descriptiva me gusta?              
             .col-lg-5.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/18.png', alt='Texto que describa la imagen')

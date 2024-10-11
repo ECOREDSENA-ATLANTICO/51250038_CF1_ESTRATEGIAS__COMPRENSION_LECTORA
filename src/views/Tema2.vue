@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Los textos se realizan en situaciones sociales concretas, con fines específicos y estructuras particulares. Cuando un grupo de textos comparte estas características se vincula a un género discursivo. En otras palabras, los textos tienen nombre, y éste se asigna teniendo en cuenta el ámbito de producción, la intención comunicativa y la estructura textual. 
+        p.mb-0 Los textos se realizan en situaciones sociales concretas, con fines específicos y estructuras particulares. Cuando un grupo de textos comparte estas características, se vincula a un género discursivo. En otras palabras, los textos tienen nombre, y este se asigna teniendo en cuenta el ámbito de producción, la intención comunicativa y la estructura textual. 
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Tabla 2. 
@@ -108,7 +108,7 @@
       .tarjeta.bgr_9.p-5(titulo="Crónica ámbito periodístico")
         h4 El Juramento
         p Y entonces resolví asistir al estadio. Como era un encuentro más sonado que todos los anteriores, tuve que irme temprano. Confieso que nunca en mi vida he llegado tan temprano a ninguna parte y que de ninguna tampoco he salido tan agotado. Alfonso y Germán no tomaron nunca la iniciativa de convertirme a esa religión dominical del fútbol, con todo y que ellos debieron sospechar que alguna vez me iba a convertir en ese energúmeno, limpio de cualquier barniz que pueda ser considerado como el último rastro de civilización, que fui ayer en las graderías del municipal. El primer instante de lucidez en que caí en la cuenta de que estaba convertido en un hincha intempestivo fue cuando advertí que durante toda mi vida había tenido algo de que muchas veces me había ufanado y que ayer me estorbaba de una manera inaceptable: el sentido del ridículo. Ahora me explico por qué esos caballeros habitualmente tan almidonados se sienten como un calamar en su tinta cuando se colocan, con todas las de la ley, su gorrita a varios colores.
-        p Es que, con ese solo gesto, quedan automáticamente convertidos en otras personas, como si la gorrita no fuera sino el uniforme de una nueva personalidad. No sé si mi matrícula de hincha esté todavía demasiado fresca para permitirme ciertas observaciones personales acerca del partido de ayer, pero como ya hemos quedado de acuerdo en que una de las condiciones esenciales del hinchaje es la pérdida absoluta y aceptada del sentido del ridículo, voy a decir lo que vi --o lo que creí ver ayer tarde—para darme el lujo de empezar bien temprano a meter esas patas deportivas que bien guardadas me tenía. En primer término, me pareció que el Junior dominó a Millonarios desde el primer momento. Si la línea blanca que divide la cancha en dos mitades significa algo, mi afirmación anterior es cierta, puesto que muy pocas veces pudo estar la bola, en el primer tiempo, dentro de la mitad correspondiente a la portería del Junior. (¿Qué tal va mi debut como comentarista de fútbol?) …
+        p Es que, con ese solo gesto, quedan automáticamente convertidos en otras personas, como si la gorrita no fuera sino el uniforme de una nueva personalidad. No sé si mi matrícula de hincha esté todavía demasiado fresca para permitirme ciertas observaciones personales acerca del partido de ayer, pero como ya hemos quedado de acuerdo en que una de las condiciones esenciales del hinchaje es la pérdida absoluta y aceptada del sentido del ridículo, voy a decir lo que vi (o lo que creí ver ayer tarde) para darme el lujo de empezar bien temprano a meter esas patas deportivas que bien guardadas me tenía. En primer término, me pareció que el Junior dominó a Millonarios desde el primer momento. Si la línea blanca que divide la cancha en dos mitades significa algo, mi afirmación anterior es cierta, puesto que muy pocas veces pudo estar la bola, en el primer tiempo, dentro de la mitad correspondiente a la portería del Junior. (¿Qué tal va mi debut como comentarista de fútbol?) …
       .tarjeta.bgr_9.p-5(titulo="Ley (ámbito legislativo)")
         h3 Código de infancia y adolescencia
         h4 Principio y definiciones 
@@ -142,7 +142,7 @@
           tr
             th Narrativo
             td Expresar hechos desarrollados en el tiempo.
-            td Miro el reloj. Ya son las doce de la noche; aunque mañana es día de trabajo, no aguanto las ganas de hablar con ella. Quiero mostrarle que yo también puedo completar su felicidad - aunque no esté muy seguro de cómo hacerlo- .
+            td Miro el reloj. Ya son las doce de la noche; aunque mañana es día de trabajo, no aguanto las ganas de hablar con ella. Quiero mostrarle que yo también puedo completar su felicidad, aunque no esté muy seguro de cómo hacerlo.
           tr
             th Argumentativo
             td Expresar posiciones y juicios de valor.

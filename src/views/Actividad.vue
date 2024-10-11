@@ -39,7 +39,7 @@ export default {
         {
           id: 2,
           texto:
-            'Los tipos de lectura son: Lectura crítica, lectura inferencial y lectura literal.',
+            'Los tipos de lectura son: lectura crítica, lectura inferencial y lectura literal.',
           imagen: require('@/assets/actividad/2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -69,7 +69,7 @@ export default {
         {
           id: 4,
           texto:
-            'La prelectura consiste en leer el texto de manera superficial antes de empezar a analizarlo en profundidad',
+            'La prelectura consiste en leer el texto de manera superficial antes de empezar a analizarlo en profundidad.',
           imagen: require('@/assets/actividad/4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -84,7 +84,7 @@ export default {
         {
           id: 5,
           texto:
-            'Los tipos de texto incluyen solo los textos narrativos y descriptivos ',
+            'Los tipos de texto incluyen solo los textos narrativos y descriptivos. ',
           imagen: require('@/assets/actividad/1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -99,7 +99,7 @@ export default {
         {
           id: 6,
           texto:
-            'El lenguaje formal es característico de los géneros académicos y científicos',
+            'El lenguaje formal es característico de los géneros académicos y científicos.',
           imagen: require('@/assets/actividad/2.png'),
           barajarRespuestas: true,
           opciones: [

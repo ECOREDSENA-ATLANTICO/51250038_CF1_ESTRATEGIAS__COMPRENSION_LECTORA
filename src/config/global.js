@@ -197,12 +197,6 @@ export default {
     },
     {
       referencia:
-        'Tabla, A. (2012). La lectura y la escritura en los procesos formativos: el papel de docente (tesis de grado). Universidad Minuto de Dios, Bogotá.',
-      link:
-        'http://repository.uniminuto.edu:8080/jspui/bitstream/10656/2408/1/TELEC_TablaRicoFabioAndres_2012.pdf',
-    },
-    {
-      referencia:
         'Real Academia Española. (2010). Ortografía de lengua española. Madrid, España: Planeta.',
     },
   ],
